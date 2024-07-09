@@ -50,10 +50,3 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at kswastic@gmail.com.
